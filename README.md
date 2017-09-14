@@ -1,3 +1,5 @@
+My solution is in Java.
+
 # Arista Coding Question Fall 2017
 
 ## The Question
